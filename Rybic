@@ -34,5 +34,12 @@ loop do
         end
     else
         puts "Invalid input"
+        if num2 != 0
+            puts "Result: #{num1 / num2}"
+        else
+            puts "Cannot divide by zero"
+        end
+    else
+        puts "Invalid input"
     end
 end
