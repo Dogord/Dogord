@@ -12,6 +12,10 @@ loop do
         puts "Calculator exiting..."
         break
     end
+    if choice == 5
+        puts "Calculator exiting..."
+        break
+    end
 
     print "Enter first number: "
     num1 = gets.chomp.to_f
