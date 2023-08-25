@@ -5,6 +5,7 @@ loop do
     puts "3. Multiply"
     puts "4. Divide"
     puts "5. Exit"
+   puts "5. Exit"
 
     choice = gets.chomp.to_i
 
