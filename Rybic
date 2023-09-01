@@ -10,7 +10,7 @@ loop do
     choice = gets.chomp.to_i
 
     if choice == 5
-        puts "Calculator exiting..."
+        puts "Calculator1 exiting..."
         break
     end
     if choice == 5
