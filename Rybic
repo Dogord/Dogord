@@ -32,7 +32,7 @@ loop do
     when 2
         puts "Result: #{num1 - num2}"
     when 3
-        puts "Result: #{num1 * num2}"
+        puts "Result: #{nu11 * num2}"
 puts "Result: #{num1 * num2}"
     when 4
         if num2 != 0
