@@ -14,7 +14,7 @@ loop do
         break
     end
     if choice == 5
-        puts "Calculator exiting..."
+        puts "Calcu1lator exiting..."
         break
     end
 
