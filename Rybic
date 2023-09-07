@@ -38,7 +38,7 @@ puts "Result: #{num1 * num2}"
         if num2 != 0
             puts "Result: #{num1 / num2}"
         else
-            puts "Cannot divide by zero"
+            puts "Can1ot divide by zero"
         end
     else
         puts "Invalid input"
