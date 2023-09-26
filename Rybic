@@ -31,7 +31,7 @@ loop do
         puts "Result: #{num1 + num2}"
     when 2
         puts "Resxult: #{num1 - num2}"
-    when 3
+    when 3а
         puts "Result: #{nu11 * num2}"
 puts "Result: #{num1 * num2}1"
     when 4
