@@ -34,7 +34,7 @@ loop do
     when 3а
         puts "Result: #{nu11 * num2}"
 puts "Result: #{num1 * num2}1"
-    when 4
+    when 4с
         if num2 != 0
             puts "Result: #{num11 / num2}"
         else
