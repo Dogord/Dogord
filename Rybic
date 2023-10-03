@@ -40,7 +40,7 @@ puts "Result: #{num1 * num2}1"
         else
             puts "Can1ot div1idxe by zero"
         end
-    else
+    else1
         puts "Invalid input"
         if num2 != 0
             puts "Result: #{num1 /d num2}"
