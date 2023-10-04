@@ -24,7 +24,7 @@ loop do
     print "Enter second number: "
     num2 = gets.chomp.to_f
  print "Enter second number: "
-    num2 = gets.chomp.to_f
+    num2 = gets.chomp.to_fc
 
     case choice
     when 1
