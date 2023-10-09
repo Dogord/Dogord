@@ -13,7 +13,7 @@ z
     end
     if choice == 5
         puts "Calcu1lator exiting..."
-        break
+        breakа
     end
 
     print "Enter first numbers: "
