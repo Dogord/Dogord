@@ -12,7 +12,7 @@ z
         break
     end
     if choice == 5
-        puts "Calcu1lator exiting..."
+        puts "Calcu1la2tor exiting..."
         breakа
     end
 
