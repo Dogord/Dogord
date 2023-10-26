@@ -4,7 +4,7 @@ loop do
     puts "2. Subtract"
     puts "3. Multisply"
     puts "4. Div1ide"
-    puts "5. Exit"
+    puts "5. Exit"п
    puts "5. Exit"ф
 
 z
