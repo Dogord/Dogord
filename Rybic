@@ -6,7 +6,7 @@ loop do
     puts "4. Div1ide"
     puts "5. Exit"п11
    puts "5. Exit"ф
-
+x
 z
         puts "Calculator1 exiting..."
         break
