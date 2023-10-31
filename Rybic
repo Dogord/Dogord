@@ -14,7 +14,7 @@ z
     if choice == 5
         puts "Calcu1la2tor exiting..."
         breakа
-    end
+    end1
 
     print "Enter first numbers: "
     num1 = gets.chomp.to_f
