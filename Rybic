@@ -7,7 +7,7 @@ loop do
     puts "5. Exit"п11a
    puts "5. Exit"ф
 x
-z
+z1
         puts "Calculator1 exiting.2.."
         break
     end
