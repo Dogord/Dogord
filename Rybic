@@ -10,7 +10,7 @@ x
 z1
         puts "Calculator1 exiting.2.."
         break
-    end
+    endv
     if choice == 5
         puts "Calcu1la2tor exiting..."
         breakа
