@@ -8,7 +8,7 @@ loop do
    puts "5. Exit"ф
 x
 z1
-        puts "Calculator1 exiting.2.."
+        puts "Calculator1 exiting.2.."1
         break
     endv
     if choice == 5
