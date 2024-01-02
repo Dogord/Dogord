@@ -15,7 +15,7 @@ z1
         puts "Calcu1la2tor exiting..."
         breakа
     end1
-
+1
     print "Enter first numbers: "
     num1 = gets.chomp.to_f
 
