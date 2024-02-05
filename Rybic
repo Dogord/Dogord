@@ -29,7 +29,7 @@ z1sx
         puts "Result: #{num1 + num2}"
     when 2
         puts "Resxult: #{num1 - num2}"
-    when 3а
+    when 3аf
         puts "Result: #{nu11 * num2}"
 puts "Result: #{num1 * num2}c1"
     when 4с
