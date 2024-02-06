@@ -33,7 +33,7 @@ z1sx
         puts "Result: #{nu11 * num2}"
 puts "Result: #{num1 * num2}c1"
     when 4с
-        if num2 != 0
+        if num2 != 0 
             puts "Result: #{num11 / num2}"
         else
             puts "Can1ot div1idxe by zero"
