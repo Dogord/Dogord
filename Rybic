@@ -23,7 +23,7 @@ z1sx
     num2 = gets.chomp.to_f
  print "Enter second number: "
     num2 = gets.chomp.to_fc
-
+м
     case choice
     when 1
         puts "Result: #{num1 + num2}"
