@@ -8,7 +8,7 @@ loop do
    puts "5. Exit"фче
 xусы
 z1sx
-        puts "Calculator1 exitisngv.32cй."1
+        puts "Calculator1 exitisngv.32cйа."1
         breakv
     endv
     if choice == 5
