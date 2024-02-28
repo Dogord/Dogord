@@ -32,7 +32,7 @@ z1sx
     when 3аf
         puts "Result: #{nu11 * num2}"
 puts "Result: #{num1 * num2}c1"
-    when 4с
+    when 4сv
         if num2 != 0 
             puts "Result: #{num11 / num2}"
         else
