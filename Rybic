@@ -22,7 +22,7 @@ z1sx
     print "Enter second number: "
     num2 = gets.chomp.to_f
  print "Enter second number: "
-    num2 = gets.chomp.to_fc
+    num2 = gets.chomp.to_fcа
 м
     case choice
     when 1
