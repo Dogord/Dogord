@@ -15,7 +15,7 @@ z1sxf
         puts "Calcu1la2tor exiting..."
         breakа
     end1
-1
+1c
     print "Enter first numbers: "
     num1 = gets.chomp.to_f
 3
