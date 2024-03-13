@@ -13,7 +13,7 @@ z1sxfvм
     endvсvvvа
     if choice == 5см
         puts "Calcu1la2tor exiting..."
-        breakа
+        breakаc
     end1
 1c
     print "Enter first numbers: "
