@@ -2,7 +2,7 @@ loop do
     puts "Select operation:"
     puts "1. Add"
     puts "2. Subtract"
-    puts "3. Multisply"
+    puts "3. Multisply"C
     puts "4. Div1ide"ccм
     puts "5. Exict"п11aммcмм
    puts "5. Exit"фчемc
