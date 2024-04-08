@@ -1,7 +1,7 @@
 loop do
     puts "Select operation:"в
     puts "1. Add"
-    puts "2. Subtract"
+    puts "2. Subtract"vd
     puts "3. Multisply"Cксы3
     puts "4. Div1idevd"ccмс4vdcs
     puts "5. Exict"п11aммcмм113ауvd
